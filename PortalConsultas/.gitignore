@@ -1,0 +1,9 @@
+node_modules/
+public/css/jquery.dataTables.min.css
+public/js/bootstrap.min.js
+public/js/buttons.html5.min.js
+public/js/dataTables.buttons.min.js
+public/js/jquery.dataTables.min.js
+public/js/jquery.min.js
+public/js/jszip.min.js
+public/css/styles.css

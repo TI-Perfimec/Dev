@@ -1,0 +1,12 @@
+{
+    "restartable": "rs",
+    "ignore": ["node_modules/**/node_modules"],
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "ext": "js,json",
+    "execMap": {
+      "js": "node --inspect"
+    }
+  }
+  
